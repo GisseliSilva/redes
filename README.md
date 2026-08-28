@@ -11,8 +11,6 @@ gráfica). **Não é necessário instalar nada com pip.**
   sorteio de palavras, pontuação e retransmissão dos desenhos.
 - `cliente.py` — cliente com interface gráfica em **Tkinter**. Não precisa
   instalar nada além do Python padrão.
-- `cliente_pygame.py` — versão alternativa do cliente, com interface em
-  **Pygame**, com liberdade visual maior (cores, formas, efeitos). Requer
   instalar a biblioteca pygame (veja abaixo).
 - `requirements.txt` — dependência necessária apenas para a versão Pygame.
 
