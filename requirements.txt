@@ -1,0 +1,3 @@
+# Dependência opcional, necessária APENAS para rodar cliente_pygame.py
+# (a versão Tkinter, em cliente.py, não precisa de nada além do Python padrão)
+pygame>=2.5
